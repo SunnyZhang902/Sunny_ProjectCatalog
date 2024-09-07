@@ -9,6 +9,7 @@
 - [操作系统文件管理](https://github.com/SunnyZhang902/Sunny-OS_2024_TongJi_3)
 - [保卫萝卜游戏](https://github.com/AlecNi/course_project_defend-the-turnips)
 - [DQN实验——合成大西瓜](https://github.com/SunnyZhang902/DQN_TEST_GAME_TongJi)
+- [校园点餐平台](https://github.com/MxLearner/tongjiDBdesign)
 ## 作者
 
 - [@SunnyZhang902](https://www.github.com/SunnyZhang902)
